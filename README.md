@@ -49,11 +49,11 @@ from .models import Bank,BankAdmin
 admin.site.register(Bank,BankAdmin)
 
 ```
-![Alt text](<mitran/Screenshot 2024-10-27 194500.png>)
+
 
 
 ## OUTPUT
-
+![Alt text](<mitran/Screenshot 2024-10-27 194500.png>)
 
 
 ## RESULT
